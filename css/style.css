@@ -1,5 +1,5 @@
 .section{ background-color: rgb(78, 78, 214);
-     background-image: url(images/bg-desktop.svg); }
+     background-image: url(images/bg-desktop.svg);}
 
 .para{ margin-top: 2.5cm; 
      margin-left: 2.5cm;
@@ -66,7 +66,7 @@ height: 1.5cm;}
      border-radius: 5px;
       border: transparent;
        height: 1.1cm;
-       width: 5cm; text-align: center; color: wheat;}
+       width: 5cm; text-align: center; color: rgb(235, 235, 235);}
 
 .section4{text-align: center; height:18cm;}
 
@@ -98,8 +98,8 @@ height: 1.5cm;}
 .smile{margin-top: 1.1cm;}
 
 .smile2{background-color: rgb(29, 99, 250); 
-     margin-left: 5.5cm;
-      margin-right: 5.5cm; 
+     margin-left: 5cm;
+      margin-right: 5cm; 
       border-radius: 10px;
        padding-left: 2cm;
      color: white; height: 4cm;}
@@ -109,7 +109,8 @@ height: 1.5cm;}
       margin-top: 1.2cm;
      margin-left: 3.5cm;
       border-radius: 5px; 
-      text-align: center;}
+      text-align: center;
+      margin-right: 1.5cm;}
 
 .fre{text-align: center;}
 
@@ -125,16 +126,16 @@ height: 1.5cm;}
          max-width:15cm;
      padding-left: 1.5cm; 
       margin-left: 4cm;}
+
  .footer1{background-color:rgb(187, 41, 15);
-            max-width: 11cm;
-          margin-right: 1cm;
+            max-width: 10cm;
           margin-top:1cm ;
        margin-right: 1cm;
       margin-left: 1.5cm;
       padding-left: 2cm;
        padding-top: 1cm;
      color: white;
-    margin-bottom: auto;}
+    height: 15cm;}
 
 .hfo{font-size: medium; font-weight: lighter; font-size: x-large;}     
 
@@ -152,13 +153,32 @@ height: 1.5cm;}
 .footer3{padding-top: 1cm;
      color: white; margin-left: 1cm; max-width:fit-content;}
 
-.footer4{padding-top:1cm;
-          color: white;
-          margin-left:1cm;
+.footer4{
+          color: white; margin-top: 1cm;
      max-width:fit-content;
-      padding-left: 2cm;}
+      padding-left: 4cm;}
 
-.input6{border-radius: 2px;
-         width: 8cm;
-          margin-left: 2cm;}
+.input8{
+        margin-top: auto; margin-left: 4cm;
+         width: 14cm;height: 1.5cm; 
+         text-align: left; border-radius: 9px;
+          border-color:transparent;} 
+ 
+.hfo1{
+      background-color: white;
+      margin-top:1cm ;
+  padding-left: 2cm;
+   padding-top: 1cm;
+ color: black;
+  margin-bottom: auto;
+    width: 10cm;
+   height: 6cm;
+    margin-left:-2cm;}
 
+.input7{ margin-top:0.1cm; margin-left: 4cm;
+     width: 14cm;height: 1.5cm; 
+     background-color: rgb(88, 88, 240);
+      text-align: center; border-radius: 9px;
+       border-color: transparent;}
+
+.footer5{padding-left: 8cm;padding-top: 1cm; color: white;}
